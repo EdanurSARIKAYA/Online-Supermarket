@@ -1,5 +1,5 @@
 # Online Supermarket
-It is a project that can be done online from the supermarket.
+It is a project that online shopping can be done from the supermarket.
 In this project, shopping can be completed by adding or removing supermarket products to the shopping cart and getting a certain amount of discounts.
 
 ## How to download the project?
