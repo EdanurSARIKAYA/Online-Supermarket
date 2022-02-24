@@ -1,5 +1,5 @@
 # Online Supermarket
-This project is a program in which basic online shopping operations such as login screen operations before starting shopping, adding or removing products after logging in, applying discounts on a certain price are applied.
+This project is a program that includes basic online shopping operations such as signing up and logging in, adding or removing products, applying discounts from the total price.
 
 ## How to download the project?
 The zip file is downloaded and the file is extracted from the zip. Open and IDE program and select the project from the open project section.
